@@ -1,0 +1,5 @@
+INCLUDE options/options.makejail
+
+ARG minetest_tag=13.3
+
+FROM --entrypoint gh+AppJail-makejails/minetest minetest:${minetest_tag}

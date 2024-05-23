@@ -1,0 +1,2 @@
+OPTION volume=minetest-data mountpoint:/var/db/minetest owner:976 group:976
+OPTION volume=minetest-log mountpoint:/var/log/minetest owner:976 group:976
