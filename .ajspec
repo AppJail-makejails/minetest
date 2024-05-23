@@ -1,0 +1,16 @@
+tags: 13.3
+13.3.arch: amd64
+13.3.name: "minetest"
+13.3.timestamp.amd64: 1716480845
+13.3.sum.amd64: a1a30992da01841e4ce35bbcd0c0fe8580cdd0aca41988685a14942091561dc7
+13.3.size.amd64: 63484287
+13.3.source.amd64: "http://appjail.hpc.at/minetest/13.3-amd64-image.appjail"
+13.3.source.amd64+: "https://images.all101bsd.download/minetest/13.3-amd64-image.appjail"
+tags+: 14.0
+14.0.arch: amd64
+14.0.name: "minetest"
+14.0.timestamp.amd64: 1716481012
+14.0.sum.amd64: a1d58b535cef8d59fc5cf6b5063465c095f21be96f2476062c6af5e356dbacef
+14.0.size.amd64: 63115277
+14.0.source.amd64: "http://appjail.hpc.at/minetest/14.0-amd64-image.appjail"
+14.0.source.amd64+: "https://images.all101bsd.download/minetest/14.0-amd64-image.appjail"
