@@ -171,6 +171,40 @@ appjail-director up
 | minetest-data | 976   | 976   |  -   |  -   | /var/db/minetest  |
 | minetest-log  | 976   | 976   |  -   |  -   | /var/log/minetest |
 
+## Screenshots
+
+<p align="center">
+<img src="https://i.ibb.co/7VRGYmg/screenshot-20240522-203554.png">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/xHGWNKF/screenshot-20240522-213304.png">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/hVqKxSg/screenshot-20240523-072600.png">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/6Z3Ncdp/screenshot-20240523-072642.png">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/hYSzBjv/screenshot-20240523-203931.png">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/wJswrMp/screenshot-20240523-204051.png">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/Ny7KHXp/screenshot-20240523-204058.png">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/xLPHY3W/screenshot-20240523-204102.png">
+</p>
+
 ## Tags
 
 | Tag    | Arch    | Version        | Type   |
