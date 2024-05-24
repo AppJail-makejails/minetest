@@ -1,6 +1,6 @@
 # Minetest
 
-Minetest is an open source voxel game-creation platform with easy modding and game creation.
+Minetest is a free and open-source game creation system with focus on voxel graphics. It is written primarily in C++ and makes use of the Irrlicht Engine. Minetest provides an API for users to write their own games and mods written in Lua. It is cross-platform, being available for Microsoft Windows, macOS, Linux, some BSD descendants, some GNU variants and Android.
 
 wikipedia.org/wiki/Minetest
 
