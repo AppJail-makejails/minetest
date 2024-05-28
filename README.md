@@ -164,6 +164,10 @@ volumes:
 appjail-director up
 ```
 
+### Arguments
+
+* `minetest_tag` (default: `13.3`): See [#tags](#tags).
+
 ### Volumes
 
 | Name          | Owner | Group | Perm | Type | Mountpoint        |
