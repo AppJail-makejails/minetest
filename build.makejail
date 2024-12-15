@@ -2,6 +2,3 @@ INCLUDE options/options.makejail
 INCLUDE options/volumes.makejail
 
 PKG minetest_game
-
-SYSRC minetest_enable=YES
-SYSRC "minetest_args=--logfile /var/log/minetest/debug.log --world /var/db/minetest/world --gameid minetest_game"

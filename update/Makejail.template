@@ -1,6 +1,6 @@
 INCLUDE options/options.makejail
 
-ARG minetest_tag=13.4
+ARG minetest_tag=%%TAG1%%
 ARG minetest_ajspec=gh+AppJail-makejails/minetest
 
 FROM --entrypoint "${minetest_ajspec}" minetest:${minetest_tag}
