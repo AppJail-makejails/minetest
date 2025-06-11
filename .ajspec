@@ -1,16 +1,17 @@
 tags+: 13.5
 13.5.arch: amd64
 13.5.name: "minetest"
-13.5.timestamp.amd64: 1747868632
-13.5.sum.amd64: 6ed66a8856d9d191d0379243686cb8b874c567d2e56abc82c6bf819301dfb5c8
-13.5.size.amd64: 70851793
+13.5.timestamp.amd64: 1749682659
+13.5.sum.amd64: f5eeaaf5a8307e1d65dfc391b8e881b5293a75f082c5b1339efc87170e5eee2b
+13.5.size.amd64: 70773562
 13.5.source.amd64: "https://images.all101bsd.download/minetest/13.5-amd64-image.appjail"
 13.5.source.amd64+: "http://appjail.hpc.at/minetest/13.5-amd64-image.appjail"
 tags+: 14.2
 14.2.arch: amd64
 14.2.name: "minetest"
-14.2.timestamp.amd64: 1747868758
-14.2.sum.amd64: 7c871db664451f5bb98b63dc1c588cb732585e6a7d65348601dc4e964bfc633c
-14.2.size.amd64: 70393864
+14.2.timestamp.amd64: 1749682748
+14.2.sum.amd64: a63ba23c90006cc50bc9d51ee47edfa9b6ea7eaf76d65bff1ee30bba18b5d192
+14.2.size.amd64: 70588268
 14.2.source.amd64: "https://images.all101bsd.download/minetest/14.2-amd64-image.appjail"
 14.2.source.amd64+: "http://appjail.hpc.at/minetest/14.2-amd64-image.appjail"
+maintenance: "This image is uploading, please wait a moment and try again. If you are importing this image using a Makejail that has the '--<name>_ajspec' argument, you can use the 'reproduce' method to use 'appjail-reproduce'. See 'appjail-image(5)' for details."
