@@ -166,7 +166,7 @@ appjail-director up
 
 ### Arguments
 
-* `minetest_tag` (default: `13.5`): See [#tags](#tags).
+* `minetest_tag` (default: `14.3`): See [#tags](#tags).
 * `minetest_ajspec` (default: `gh+AppJail-makejails/minetest`): Entry point where the `appjail-ajspec(5)` file is located.
 
 ### Volumes
@@ -214,5 +214,5 @@ appjail-director up
 
 | Tag    | Arch    | Version        | Type   |
 | ------ | ------- | -------------- | ------ |
-| `13.5` | `amd64` | `13.5-RELEASE` | `thin` |
 | `14.3` | `amd64` | `14.3-RELEASE` | `thin` |
+| `15` | `amd64` | `15` | `thin` |
